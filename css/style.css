@@ -1,0 +1,200 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+
+}
+
+.heading {
+    font-size: 4rem;
+    margin-top: 0;
+    color: #3A98B9;
+    margin: 0 auto;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Dancing Script', cursive;
+
+}
+
+.heading2 {
+    position: absolute;
+    top: 34%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.75rem;
+    color: #3A98B9;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.cloud {
+    width: 100%;
+}
+
+
+
+.feather1-img {
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    width: 17%;
+}
+
+.feather2-img {
+    position: absolute;
+    top: 10%;
+    left: 70%;
+    width: 20%;
+
+}
+
+.feather3-img {
+    position: absolute;
+    width: 12%;
+    top: 5%;
+    left: 30%;
+}
+
+.top-container {
+    position: relative;
+}
+
+.middle-container {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.skills {}
+
+.hello {
+    padding-top: 30px;
+    font-size: 2rem;
+    padding-bottom: 15px;
+    color: #11999E;
+}
+
+.bio {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.profile-img {
+    border-radius: 80%;
+}
+
+.skillC1 {
+    position: relative;
+    bottom: 30px;
+    width: 35%;
+    float: left;
+    margin-right: 50px;
+
+
+}
+
+.skillC2 {
+    position: relative;
+    bottom: 30px;
+    width: 35%;
+    float: right;
+    margin-left: 50px;
+    margin-bottom: 0px;
+}
+
+.skillcontent2 {}
+
+h3 {
+
+    color: #11999E;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 15%;
+    border-width: 6px;
+    border-color: grey;
+
+}
+
+.ha2 {
+    font-size: 3rem;
+    color: #11999E;
+}
+
+
+
+
+.footer-link {
+    position: relative;
+    color: black;
+    font-size: 2rem;
+    font-family: 'Merriweather', serif;
+    text-decoration: none;
+    bottom: 10px;
+}
+
+a:hover {
+    color: #0A66C2;
+}
+
+p {
+    line-height: 2;
+    font-size: 1.15rem;
+}
+
+
+.skill-row {
+    text-align: left;
+
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 60px;
+    margin-bottom: 100px;
+
+}
+
+.profile {
+    margin-bottom: 50px;
+}
+
+.connect {
+    width: 40%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.get-in-touch {
+    font-size: 3rem;
+    color: #11999E;
+    margin-bottom: 0;
+    margin-bottom: 10px;
+}
+
+.endpage {
+    background-color: #C8F2EF;
+
+
+    padding-top: 0px;
+    margin-bottom: 0px;
+}
+
+.linkedin-img {
+    width: 2%;
+    position: relative;
+    top: 1px;
+    right: 3px;
+    margin-bottom: 10px;
+}
+
+.copyright {
+    margin-bottom: 0;
+    margin-top: 0;
+    font-size: 1rem;
+
+}
+
+.bottom-container {}
